@@ -1,5 +1,5 @@
-make_banana <- function() {
-  
+make_banana <- function(x) {
+  x
 }
 
 
