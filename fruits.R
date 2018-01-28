@@ -4,5 +4,6 @@ make_banana <- function() {
 
 
 make_apple <- function(x) {
-  c * 2
+  g <- c * 2
+  g
 }
